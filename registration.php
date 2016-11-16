@@ -6,6 +6,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'staempfli_de_ch',
+    'holozaen_de_ch',
     __DIR__
 );
