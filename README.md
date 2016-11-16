@@ -3,7 +3,7 @@ Magento 2 Swiss-German Language Pack
 
 Facts
 -----
-- Based on [Magento2_German_LocalePack_de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) from Splendid Internet GmbH & Co. KG
+- Forked from a version of [staempfli](https://github.com/staempfli/magento2-language-de-ch) that is itself based on [Magento2_German_LocalePack_de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) from Splendid Internet GmbH & Co. KG
 - Adaptions for the Swiss-German language ("Kanton" instead of "Bundesland", "ss" instead of "ß")
 
 Requirements
